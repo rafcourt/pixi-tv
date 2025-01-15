@@ -1,0 +1,22 @@
+{
+  "name": "pixi-tv",
+  "version": "1.0.0",
+  "description": "A TV app made with PixiJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "gh-pages": "^6.3.0",
+    "pixi.js": "^8.6.6"
+  },
+  "devDependencies": {
+    "@pixi/devtools": "^2.0.1",
+    "vite": "^6.0.5"
+  }
+}
